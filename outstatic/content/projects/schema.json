@@ -1,0 +1,13 @@
+{
+  "title": "projects",
+  "type": "object",
+  "properties": {
+    "link": {
+      "required": true,
+      "description": "",
+      "fieldType": "Text",
+      "dataType": "string",
+      "title": "Link"
+    }
+  }
+}
