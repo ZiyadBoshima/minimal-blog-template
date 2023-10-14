@@ -4,7 +4,7 @@ author:
   picture: 'https://avatars.githubusercontent.com/u/137479354?v=4'
 coverImage: '/images/1-Y3MT.png'
 title: 'test title'
-status: 'draft'
+status: 'published'
 slug: 'test-title'
 description: ''
 publishedAt: '2023-10-14T18:12:13.216Z'
