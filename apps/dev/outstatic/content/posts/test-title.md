@@ -2,7 +2,7 @@
 author:
   name: 'Ziyad'
   picture: 'https://avatars.githubusercontent.com/u/137479354?v=4'
-coverImage: ''
+coverImage: '/images/1-Y3MT.png'
 title: 'test title'
 status: 'draft'
 slug: 'test-title'
