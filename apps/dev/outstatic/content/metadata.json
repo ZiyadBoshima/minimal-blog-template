@@ -1,12 +1,12 @@
 {
-  "commit": "17c70c37fcb41c1136166fd59050fe61fda1fea8",
-  "generated": "Mon, 04 Dec 2023 19:15:56 GMT",
+  "commit": "f65823a671141aaec04f2fa6d892be342d5dadb8",
+  "generated": "2023-12-04T20:00:47.448Z",
   "metadata": [
     {
       "__outstatic": {
-        "commit": "a338db2db12f7cfbf4c5d1452878535f771b5fb7",
-        "hash": "2820113565",
-        "path": "/outstatic/content/posts/test-title.md"
+        "commit": "f65823a671141aaec04f2fa6d892be342d5dadb8",
+        "hash": "2739175723",
+        "path": "outstatic/content/posts/test-title.md"
       },
       "author": {
         "name": "Ziyad",
@@ -18,6 +18,7 @@
       "publishedAt": "2023-10-14T18:12:13.216Z",
       "slug": "test-title",
       "status": "draft",
+      "test": "test",
       "title": "test title"
     }
   ]
