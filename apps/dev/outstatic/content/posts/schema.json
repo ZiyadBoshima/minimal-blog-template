@@ -1,0 +1,14 @@
+{
+  "title": "posts",
+  "type": "object",
+  "properties": {
+    "test": {
+      "required": true,
+      "displayed": true,
+      "description": "",
+      "fieldType": "String",
+      "dataType": "string",
+      "title": "test"
+    }
+  }
+}
