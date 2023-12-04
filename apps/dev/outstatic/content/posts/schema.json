@@ -9,6 +9,14 @@
       "fieldType": "String",
       "dataType": "string",
       "title": "test"
+    },
+    "noneDisplayedField": {
+      "required": false,
+      "displayed": false,
+      "description": "",
+      "fieldType": "String",
+      "dataType": "string",
+      "title": "None Displayed Field"
     }
   }
 }
