@@ -1,11 +1,11 @@
 {
-  "commit": "f65823a671141aaec04f2fa6d892be342d5dadb8",
-  "generated": "2023-12-04T20:00:47.448Z",
+  "commit": "f0f1e37278af1c37aaa80b84c1fda677745dda59",
+  "generated": "2023-12-04T20:30:30.435Z",
   "metadata": [
     {
       "__outstatic": {
-        "commit": "f65823a671141aaec04f2fa6d892be342d5dadb8",
-        "hash": "2739175723",
+        "commit": "f0f1e37278af1c37aaa80b84c1fda677745dda59",
+        "hash": "4181360939",
         "path": "outstatic/content/posts/test-title.md"
       },
       "author": {
@@ -18,7 +18,7 @@
       "publishedAt": "2023-10-14T18:12:13.216Z",
       "slug": "test-title",
       "status": "draft",
-      "test": "test",
+      "test": "Something",
       "title": "test title"
     }
   ]
