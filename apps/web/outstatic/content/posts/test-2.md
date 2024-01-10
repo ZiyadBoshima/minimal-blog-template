@@ -5,7 +5,7 @@ author:
   name: 'Ziyad'
   picture: 'https://avatars.githubusercontent.com/u/137479354?v=4'
 slug: 'test-2'
-description: ''
+description: 'Some description'
 coverImage: ''
 publishedAt: '2024-01-10T07:37:57.544Z'
 ---
